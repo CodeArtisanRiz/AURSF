@@ -1,338 +1,512 @@
 [
-    {
-      "userId": 1,
-      "group": "Executive",
-      "name": "Samim Borbhuyan",
-      "img": "assets/img/team/team-1.jpg",
-      "designation": "President",
-      "dept": "Ecology and Env. Science",
-      "email": "testMail@gmail.com",
-      "phone": "91"
-    },
-    {
-      "userId": 2,
-      "group": "Executive",
-      "name": "Gaurav Longjam",
-      "img": "assets/img/team/team-1.jpg",
-      "designation": "Vice President (M)",
-      "dept": "English",
-      "email": "testMail@gmail.com",
-      "phone": "91"
-    },
-    {
-      "userId": 3,
-      "group": "Executive",
-      "name": "Anindita Bhattacharjee",
-      "img": "assets/img/team/team-2.jpg",
-      "designation": "Vice President (F)",
-      "dept": "Visual Arts",
-      "email": "testMail@gmail.com",
-      "phone": "91"
-    },
-    {
-      "userId": 4,
-      "group": "Executive",
-      "name": "Anshuman Baruah",
-      "img": "assets/img/team/team-1.jpg",
-      "designation": "General Secretary",
-      "dept": "Physics",
-      "email": "testMail@gmail.com",
-      "phone": "91"
-    },
-    {
-      "userId": 5,
-      "group": "Executive",
-      "designation": "Joint Secrtetary",
-      "img": "assets/img/team/team-1.jpg",
-      "name": "Amit Kumar Roy",
-      "dept": "Computer Science"
-    },
-    {
-      "userId": 6,
-      "group": "Executive",
-      "designation": "Joint Secrtetary",
-      "img": "assets/img/team/team-1.jpg",
-      "name": "Bhaskar Goswami",
-      "dept": "Physics"
-    },
-    {
-      "group": "Executive",
-      "userId": 7,
-      "designation": "Joint Secrtetary",
-      "img": "assets/img/team/team-1.jpg",
-      "name": "Suvam Nath Sharma",
-      "dept": "English"
-    },
-    {
-      "group": "Executive",
-      "userId": 8,
-      "designation": "Joint Secrtetary",
-      "img": "assets/img/team/team-1.jpg",
-      "name": "Nazima Begum",
-      "dept": "Linguistics"
-    },
-    {
-      "group": "Executive",
-      "userId": 9,
-      "designation": "Joint Secrtetary",
-      "img": "assets/img/team/team-1.jpg",
-      "name": "Paban Chetry",
-      "dept": "Sanskrit"
-    },
-    {
-      "group": "Executive",
-      "userId": 10,
-      "designation": "Joint Secrtetary",
-      "img": "assets/img/team/team-1.jpg",
-      "dept": "Life Science and Bioinformatics",
-      "name": "Pubali Dey"
-    },
-    {
-      "group": "Executive",
-      "userId": 11,
-      "designation": "Joint Secrtetary",
-      "img": "assets/img/team/team-1.jpg",
-      "name": "Prasenjit Saha",
-      "dept": "Visual Arts"
-    },
-    {
-      "group": "Executive",
-      "userId": 12,
-      "designation": "Joint Secrtetary",
-      "img": "assets/img/team/team-1.jpg",
-      "dept": "Earth Science",
-      "name": "Himangshu Saika"
-    },
-    {
-      "group": "Executive",
-      "userId": 13,
-      "designation": "Joint Secrtetary",
-      "img": "assets/img/team/team-1.jpg",
-      "name": "Ishwarjit Singh",
-      "dept": "Social Work"
-    },
-    {
-      "group": "Executive",
-      "userId": 14,
-      "designation": "Joint Secrtetary",
-      "img": "assets/img/team/team-1.jpg",
-      "dept": "ICL",
-      "name": "Sarwar Jahan"
-    },
-    {
-      "group": "Executive",
-      "userId": 15,
-      "designation": "Joint Secrtetary",
-      "img": "assets/img/team/team-1.jpg",
-      "dept": "Sociology",
-      "name": "Anindita Barman"
-    },
-    {
-      "group": "Executive",
-      "userId": 16,
-      "designation": "Joint Secrtetary",
-      "img": "assets/img/team/team-1.jpg",
-      "dept": "Arabic",
-      "name": "Abdul Aziz"
-    },
-    {
-      "group": "Executive",
-      "userId": 17,
-      "designation": "Joint Secrtetary",
-      "img": "assets/img/team/team-1.jpg",
-      "name": "Prasenjit Goon",
-      "dept": "MBA"
-    },
-    {
-      "group": "Executive",
-      "userId": 18,
-      "designation": "Joint Secrtetary",
-      "img": "assets/img/team/team-1.jpg",
-      "dept": "Microbiology",
-      "name": "Anuradha Chakraborty"
-    },
-    {
-      "group": "Executive",
-      "userId": 19,
-      "designation": "Secrtetary -  Media and Publicity",
-      "img": "assets/img/team/team-1.jpg",
-      "dept": "Ecology and Env. Science",
-      "name": "Bishal Sonar"
-    },
-    {
-      "group": "Executive",
-      "userId": 20,
-      "designation": "Secrtetary -  Media and Publicity",
-      "img": "assets/img/team/team-1.jpg",
-      "name": "Nurulla Mansur Barbhuiya",
-      "dept": "Computer Science"
-    },
-    {
-      "group": "Executive",
-      "userId": 21,
-      "designation": "Secrtetary -  Media and Publicity",
-      "img": "assets/img/team/team-1.jpg",
-      "dept": "MBA",
-      "name": "Sushmita Paul Choudhury"
-    },
-    {
-      "group": "Executive",
-      "userId": 22,
-      "designation": "Treasurer",
-      "img": "assets/img/team/team-1.jpg",
-      "name": "Panchi Haloi",
-      "dept": "Economics"
-    },
-    {
-      "group": "Executive",
-      "userId": 23,
-      "designation": "Treasurer",
-      "img": "assets/img/team/team-1.jpg",
-      "dept": "Political Science",
-      "name": "Jwanga Basumatary"
-    },
-    {
-      "group": "Executive",
-      "userId": 24,
-      "designation": "Cultural",
-      "img": "assets/img/team/team-1.jpg",
-      "name": "Gitanjali Pradhani",
-      "dept": "Statistics"
-    },
-    {
-      "group": "Executive",
-      "userId": 25,
-      "designation": "Cultural",
-      "img": "assets/img/team/team-1.jpg",
-      "dept": "Bengali",
-      "name": "Koel Roy"
-    },
-    {
-      "group": "Executive",
-      "userId": 25,
-      "designation": "Cultural",
-      "img": "assets/img/team/team-1.jpg",
-      "dept": "Chemistry",
-      "name": "Rikita Bardhan"
-    },
-    {
-      "group": "Executive",
-      "userId": 25,
-      "designation": "Sports",
-      "img": "assets/img/team/team-1.jpg",
-      "name": "Dipjyoti Deori",
-      "dept": "Social Work"
-    },
-    {
-      "group": "Executive",
-      "userId": 25,
-      "designation": "Sports",
-      "img": "assets/img/team/team-1.jpg",
-      "name": "Nazrana Sultana Begum",
-      "dept": "Biotechnology"
-    },
-    {
-      "group": "Executive",
-      "userId": 25,
-      "designation": "Magazine",
-      "img": "assets/img/team/team-1.jpg",
-      "dept": "Physics",
-      "name": "Nikhil Parasar"
-    },
-    {
-      "group": "Executive",
-      "userId": 25,
-      "designation": "Magazine",
-      "img": "assets/img/team/team-1.jpg",
-      "dept": "Ecology and Env. Science",
-      "name": "Jintu Kumar Bania"
-    },
-    {
-      "group": "Executive",
-      "userId": 25,
-      "designation": "Magazine",
-      "img": "assets/img/team/team-1.jpg",
-      "dept": "MBA",
-      "name": "Imaran Uddin"
-    },
-    {
-      "group": "Executive",
-      "userId": 25,
-      "designation": "Magazine",
-      "img": "assets/img/team/team-1.jpg",
-      "dept": "Political Science",
-      "name": "Prabhu Teja"
-    },
-    {
-      "userId": 26,
-      "group": "Advisory",
-      "name": "Gulafsa Choudhury",
-      "img": "assets/img/team/gulafsa.jpeg",
-      "designation": "",
-      "dept": "Physics",
-      "email": "testMail@gmail.com",
-      "phone": "91"
-    },
-    {
-      "userId": 27,
-      "group": "Advisory",
-      "name": "Shahjahan Ahmed",
-      "img": "assets/img/team/team-1.jpg",
-      "designation": "",
-      "dept": "Linguistics",
-      "email": "testMail@gmail.com",
-      "phone": "91"
-    },
-    {
-      "userId": 28,
-      "group": "Advisory",
-      "name": "Somnaath Bhattacharjee",
-      "img": "assets/img/team/team-1.jpg",
-      "designation": "",
-      "dept": "English",
-      "email": "testMail@gmail.com",
-      "phone": "91"
-    },
-    {
-      "userId": 29,
-      "group": "Advisory",
-      "name": "Raja Kumar",
-      "img": "assets/img/team/team-1.jpg",
-      "designation": "",
-      "dept": "Visual Arts",
-      "email": "testMail@gmail.com",
-      "phone": "91"
-    },
-    {
-      "userId": 30,
-      "group": "Advisory",
-      "img": "assets/img/team/team-1.jpg",
-      "designation": "",
-      "email": "testMail@gmail.com",
-      "phone": "91"
-    },
-    {
-      "userId": 31,
-      "group": "Advisory",
-      "img": "assets/img/team/team-1.jpg",
-      "designation": "",
-      "email": "testMail@gmail.com",
-      "phone": "91"
-    },
-    {
-      "userId": 32,
-      "group": "Advisory",
-      "img": "assets/img/team/team-1.jpg",
-      "designation": "",
-      "email": "testMail@gmail.com",
-      "phone": "91"
-    },
-    {
-      "userId": 33,
-      "group": "Advisory",
-      "img": "assets/img/team/team-1.jpg",
-      "designation": "",
-      "email": "testMail@gmail.com",
-      "phone": "91"
-    }
-  ]
+  {
+    "userId": 1,
+    "group": "Executive",
+    "name": "Samim Borbhuyan",
+    "img": "default-m.jpg",
+    "designation": "President",
+    "dept": "Ecology and Env. Science",
+    "email": null,
+    "phone": null
+  },
+  {
+    "userId": 2,
+    "group": "Executive",
+    "name": "Gaurav Longjam",
+    "img": "default-m.jpg",
+    "designation": "Vice President (M)",
+    "dept": "English",
+    "email": null,
+    "phone": null
+  },
+  {
+    "userId": 3,
+    "group": "Executive",
+    "name": "Anindita Bhattacharjee",
+    "img": "default-f.jpg",
+    "designation": "Vice President (F)",
+    "dept": "Visual Arts",
+    "email": null,
+    "phone": null
+  },
+  {
+    "userId": 4,
+    "group": "Executive",
+    "name": "Anshuman Baruah",
+    "img": "anshuman.jpg",
+    "designation": "General Secretary",
+    "dept": "Physics",
+    "email": "anshuman.baruah@gmail.com",
+    "phone": null
+  },
+  {
+    "userId": 5,
+    "group": "Executive",
+    "designation": "Joint Secrtetary",
+    "img": "default-m.jpg",
+    "name": "Amit Kumar Roy",
+    "dept": "Computer Science",
+    "email": null,
+    "phone": null
+  },
+  {
+    "userId": 6,
+    "group": "Executive",
+    "designation": "Joint Secrtetary",
+    "img": "default-m.jpg",
+    "name": "Bhaskar Goswami",
+    "dept": "Physics",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 7,
+    "designation": "Joint Secrtetary",
+    "img": "default-m.jpg",
+    "name": "Suvam Nath Sharma",
+    "dept": "English",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 8,
+    "designation": "Joint Secrtetary",
+    "img": "default-f.jpg",
+    "name": "Nazima Begum",
+    "dept": "Linguistics",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 9,
+    "designation": "Joint Secrtetary",
+    "img": "paban.jpg",
+    "name": "Paban Chetry",
+    "dept": "Sanskrit",
+    "email": "pabanchetry0@gmail.com",
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 10,
+    "designation": "Joint Secrtetary",
+    "img": "pubali.jpg",
+    "dept": "Life Science and Bioinformatics",
+    "name": "Pubali Dey",
+    "email": "pubalidey02@gmail.com",
+    "phone": 7002594747
+  },
+  {
+    "group": "Executive",
+    "userId": 11,
+    "designation": "Joint Secrtetary",
+    "img": "default-m.jpg",
+    "name": "Prasenjit Saha",
+    "dept": "Visual Arts",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 12,
+    "designation": "Joint Secrtetary",
+    "img": "himangshu.jpg",
+    "dept": "Earth Science",
+    "name": "Himangshu Saika",
+    "email": "masterhimangshupriyam-saikia@gmail.com",
+    "phone": 7002545098
+  },
+  {
+    "group": "Executive",
+    "userId": 13,
+    "designation": "Joint Secrtetary",
+    "img": "default-m.jpg",
+    "name": "Ishwarjit Singh",
+    "dept": "Social Work",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 14,
+    "designation": "Joint Secrtetary",
+    "img": "default-m.jpg",
+    "dept": "ICL",
+    "name": "Sarwar Jahan",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 15,
+    "designation": "Joint Secrtetary",
+    "img": "default-f.jpg",
+    "dept": "Sociology",
+    "name": "Anindita Barman",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 16,
+    "designation": "Joint Secrtetary",
+    "img": "default-m.jpg",
+    "dept": "Arabic",
+    "name": "Abdul Aziz",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 17,
+    "designation": "Joint Secrtetary",
+    "img": "default-m.jpg",
+    "name": "Prasenjit Goon",
+    "dept": "MBA",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 18,
+    "designation": "Joint Secrtetary",
+    "img": "anuradha.jpg",
+    "dept": "Microbiology",
+    "name": "Anuradha Chakraborty",
+    "email": "leenachak94@gmail.com",
+    "phone": 9365352343
+  },
+  {
+    "group": "Executive",
+    "userId": 19,
+    "designation": "Secrtetary -  Media and Publicity",
+    "img": "bishal.jpg",
+    "dept": "Ecology and Env. Science",
+    "name": "Bishal Sonar",
+    "email": "bishalsonar47@gmail.com",
+    "phone": 7002919229
+  },
+  {
+    "group": "Executive",
+    "userId": 20,
+    "designation": "Secrtetary -  Media and Publicity",
+    "img": "nurulla.jpg",
+    "name": "Nurulla Mansur Barbhuiya",
+    "dept": "Computer Science",
+    "email": "nurullabarbhuiya@gmail.com",
+    "phone": 7002159591
+  },
+  {
+    "group": "Executive",
+    "userId": 21,
+    "designation": "Secrtetary -  Media and Publicity",
+    "img": "default-f.jpg",
+    "dept": "MBA",
+    "name": "Sushmita Paul Choudhury",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 22,
+    "designation": "Treasurer",
+    "img": "default-m.jpg",
+    "name": "Panchi Haloi",
+    "dept": "Economics",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 23,
+    "designation": "Treasurer",
+    "img": "default-m.jpg",
+    "dept": "Political Science",
+    "name": "Jwanga Basumatary",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 24,
+    "designation": "Cultural",
+    "img": "gitanjali.jpg",
+    "name": "Gitanjali Pradhani",
+    "dept": "Statistics",
+    "email": "pradhanig18@gmail.com",
+    "phone": 8638317974
+  },
+  {
+    "group": "Executive",
+    "userId": 25,
+    "designation": "Sports",
+    "img": "default-m.jpg",
+    "name": "Dipjyoti Deori",
+    "dept": "Social Work",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 25,
+    "designation": "Magazine",
+    "img": "imaran.jpg",
+    "dept": "MBA",
+    "name": "Imaran Uddin",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 25,
+    "designation": "Magazine",
+    "img": "default-m.jpg",
+    "dept": "Ecology and Env. Science",
+    "name": "Jintu Kumar Bania",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 25,
+    "designation": "Cultural",
+    "img": "default-f.jpg",
+    "dept": "Bengali",
+    "name": "Koel Roy",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 25,
+    "designation": "Magazine",
+    "img": "nikhil.jpg",
+    "dept": "Physics",
+    "name": "Nikhil Parasar",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 25,
+    "designation": "Cultural",
+    "img": "default-f.jpg",
+    "dept": "Chemistry",
+    "name": "Rikita Bardhan",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 25,
+    "designation": "Magazine",
+    "img": "prabhu.jpg",
+    "dept": "Political Science",
+    "name": "S Prabhu Teja",
+    "email": null,
+    "phone": null
+  },
+  {
+    "group": "Executive",
+    "userId": 25,
+    "designation": "Sports",
+    "img": "nazrana.jpg",
+    "name": "Nazrana Sultana Begum",
+    "dept": "Biotechnology",
+    "email": "nazranasultanab@gmail.com",
+    "phone": 6003481415
+  },
+  {
+    "userId": 26,
+    "group": "Advisory",
+    "name": "Gulafsa Choudhury",
+    "img": "gulafsa.jpeg",
+    "designation": "",
+    "dept": "Physics",
+    "email": null,
+    "phone": null
+  },
+  {
+    "userId": 27,
+    "group": "Advisory",
+    "name": "Shahjahan Ahmed",
+    "img": "default-m.jpg",
+    "designation": "",
+    "dept": "Linguistics",
+    "email": null,
+    "phone": null
+  },
+  {
+    "userId": 28,
+    "group": "Advisory",
+    "name": "Somnaath Bhattacharjee",
+    "img": "default-m.jpg",
+    "designation": "",
+    "dept": "English",
+    "email": null,
+    "phone": null
+  },
+  {
+    "userId": 29,
+    "group": "Advisory",
+    "name": "Raja Kumar",
+    "img": "default-m.jpg",
+    "designation": "",
+    "dept": "Visual Arts",
+    "email": null,
+    "phone": null
+  },
+  {
+    "userId": 30,
+    "group": "Advisory",
+    "img": "default-m.jpg",
+    "designation": "",
+    "email": null,
+    "phone": null,
+    "name": "Alok Daimari",
+    "dept": "ICL"
+  },
+  {
+    "userId": 31,
+    "group": "Advisory",
+    "img": "default-m.jpg",
+    "designation": "",
+    "email": null,
+    "phone": null,
+    "name": "A B Siddique",
+    "dept": "Linguistics"
+  },
+  {
+    "userId": 31,
+    "group": "Advisory",
+    "img": "default-m.jpg",
+    "designation": "",
+    "email": null,
+    "phone": null,
+    "name": "Raju Singh",
+    "dept": "Hindi"
+  },
+  {
+    "userId": 32,
+    "group": "Advisory",
+    "img": "default-f.jpg",
+    "designation": "",
+    "email": null,
+    "phone": null,
+    "name": "Gitika Saika",
+    "dept": "Hindi"
+  },
+  {
+    "userId": 32,
+    "group": "Advisory",
+    "img": "default-m.jpg",
+    "designation": "",
+    "email": null,
+    "phone": null,
+    "name": "Himanish Dutta Choudhury",
+    "dept": "Biotechnology"
+  },
+  {
+    "userId": 32,
+    "group": "Advisory",
+    "img": "default-m.jpg",
+    "designation": "",
+    "email": null,
+    "phone": null,
+    "name": "Indranil Das",
+    "dept": "Life Science"
+  },
+  {
+    "userId": 32,
+    "group": "Advisory",
+    "img": "default-m.jpg",
+    "designation": "",
+    "email": null,
+    "phone": null,
+    "name": "Kajal Poddar",
+    "dept": "History"
+  },
+  {
+    "userId": 32,
+    "group": "Advisory",
+    "img": "default-m.jpg",
+    "designation": "",
+    "email": null,
+    "phone": null,
+    "name": "Mustafizur Rehman",
+    "dept": "Linguistics"
+  },
+  {
+    "userId": 32,
+    "group": "Advisory",
+    "img": "default-m.jpg",
+    "designation": "",
+    "email": null,
+    "phone": null,
+    "name": "Panna Chandra Nath",
+    "dept": "Ecology"
+  },
+  {
+    "userId": 32,
+    "group": "Advisory",
+    "img": "default-m.jpg",
+    "designation": "",
+    "email": null,
+    "phone": null,
+    "name": "Parijat Hazarika",
+    "dept": "Microbiology"
+  },
+  {
+    "userId": 32,
+    "group": "Advisory",
+    "img": "default-f.jpg",
+    "designation": "",
+    "email": null,
+    "phone": null,
+    "name": "Puja Pandey",
+    "dept": "Visual Arts"
+  },
+  {
+    "userId": 32,
+    "group": "Advisory",
+    "img": "default-f.jpg",
+    "designation": "",
+    "email": null,
+    "phone": null,
+    "name": "Shreya Roy",
+    "dept": "Visual Arts"
+  },
+  {
+    "userId": 33,
+    "group": "Advisory",
+    "img": "default-m.jpg",
+    "designation": "",
+    "email": null,
+    "phone": null,
+    "name": "Ajoy Hatibaruah",
+    "dept": "Mathematics"
+  },
+  {
+    "userId": 33,
+    "group": "Advisory",
+    "img": "default-m.jpg",
+    "designation": "",
+    "email": null,
+    "phone": null,
+    "name": "Latiful Ahmed",
+    "dept": "Library anf Information Science"
+  },
+  {
+    "userId": 33,
+    "group": "Advisory",
+    "img": "default-m.jpg",
+    "designation": "",
+    "email": null,
+    "phone": null,
+    "name": "Laxman Sharma",
+    "dept": "Hindi"
+  }
+]
